@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TRSPO2/1.0.0": {
+        "runtime": {
+          "TRSPO2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRSPO2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

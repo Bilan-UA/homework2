@@ -1,0 +1,14 @@
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\bin\Release\net10.0\TRSPO2.exe
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\bin\Release\net10.0\TRSPO2.deps.json
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\bin\Release\net10.0\TRSPO2.runtimeconfig.json
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\bin\Release\net10.0\TRSPO2.dll
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\bin\Release\net10.0\TRSPO2.pdb
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\TRSPO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\TRSPO2.AssemblyInfoInputs.cache
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\TRSPO2.AssemblyInfo.cs
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\TRSPO2.csproj.CoreCompileInputs.cache
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\TRSPO2.dll
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\refint\TRSPO2.dll
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\TRSPO2.pdb
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\TRSPO2.genruntimeconfig.cache
+C:\Users\mbila\OneDrive\Desktop\ОМ\vs_code\TRSPO2\obj\Release\net10.0\ref\TRSPO2.dll
